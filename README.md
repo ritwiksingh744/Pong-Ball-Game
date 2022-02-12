@@ -2,7 +2,7 @@
  This is multiplayer python game, this requires two player. There are two paddle on opposite side and ball has to collide with paddle that controlled by player if ball missed then score increments of opponent, thus who reaches score of ten will be winner.
  
  # How to play
- -> To start the game run the code.
+ -> To start the game run "main.py".
  -> For left paddle
     - use 'w' key for upward movement
     - uese 's' key for downward movement
